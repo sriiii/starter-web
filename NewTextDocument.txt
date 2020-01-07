@@ -5,3 +5,10 @@ This is Git
 Tis is Sri.
 
 Merging from git.
+
+Yahoo..
+Helllo, How are you?
+I am fine.
+
+This is Si.
+I am good.
